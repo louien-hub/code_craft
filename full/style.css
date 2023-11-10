@@ -18,3 +18,8 @@
 .top-margin {
     margin-top: 70px;
 }
+
+.no-decor {
+    text-align: center;
+    text-decoration: none;
+}
