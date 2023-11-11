@@ -18,3 +18,16 @@
 .dark {
     background-color: #2b3035;
 }
+
+/* logos */
+
+.logos {
+    display: flex;
+    justify-content: center;
+    gap: 30px; /* Adjust the spacing as needed */
+    margin: 0 0 20px 0;
+}
+
+.logos img {
+    width: 70px;
+}
